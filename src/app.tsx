@@ -20,7 +20,7 @@ const App: Component = (props: { children: Element }) => {
           </li>
           <li class="py-2 px-4">
             <A href="/kpi" class="no-underline hover:underline">
-              Error
+              KPI
             </A>
           </li>
           </li>
